@@ -2,9 +2,12 @@
 body{
     background-color: lavenderblush;
 }
-.profile{
-    float: right;
-   
+   img{
+       float: left;
+   }
+.sidebar{
+    width: 350px;
+    background-color: lawngreen;
 }
 .hed{
     color: slateblue;
