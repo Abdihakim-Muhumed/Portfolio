@@ -14,6 +14,10 @@ body{
     background-image: url('bg1.png');
     width: 600px;
     height: 110px;
+    size: 10px;
+    }
+    .name{
+        size: 10px;
     }
 .hed{
     color: slateblue;
@@ -30,8 +34,8 @@ body{
 .sub{
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(194, 204, 214) ;
+    color: rgb(68, 149, 230) ;
 }
 .dis{
-    color: rgb(196, 188, 188);
+    color: rgb(209, 206, 206);
 }
