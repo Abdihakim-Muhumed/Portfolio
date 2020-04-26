@@ -3,14 +3,15 @@ body{
     background-color: rgb(95, 79, 84);
 }
    img{
-       float: right;
+       float: left;
        width: 200px;
        height: 110px;
    }
 .profile{
-    background-color: rgb(5, 40, 56);
-    width: 300px;
-
+    float: inline-start;
+    background-color: rgb(15, 165, 235);
+    width: 600px;
+    height: 110px;
 }
 .hed{
     color: slateblue;
@@ -28,4 +29,7 @@ body{
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(194, 204, 214) ;
+}
+.dis{
+    color: black;
 }
