@@ -1,15 +1,16 @@
 
 body{
-    background-color: lavenderblush;
+    background-color: rgb(95, 79, 84);
 }
    img{
-       float: left;
+       float: right;
        width: 200px;
        height: 110px;
    }
 .profile{
     background-color: rgb(5, 40, 56);
-    background-size: height: 110px; ;
+    width: 300px;
+
 }
 .hed{
     color: slateblue;
@@ -26,5 +27,5 @@ body{
 .sub{
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: slategray ;
+    color: rgb(194, 204, 214) ;
 }
