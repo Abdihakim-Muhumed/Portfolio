@@ -4,17 +4,25 @@ body{
 }
    img{
        float: left;
-       size: 2px;
+       width: 200px;
+       height: 110px;
    }
-.sidebar{
-   
-    background-color: lawngreen;
+.profile{
+    background-color: rgb(5, 40, 56);
+    background-size: height: 110px; ;
 }
 .hed{
     color: slateblue;
-   font-size: xx-large;
+    font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
+    border: 6px solid rgb(126, 12, 111) ;
+    padding: 6px solid rgb(25, 230, 212);
+    margin: 20px;
+    background-color: rgb(19, 6, 20);
+    width: 200px;
+    height: fit-content;
 }
+
 .sub{
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
