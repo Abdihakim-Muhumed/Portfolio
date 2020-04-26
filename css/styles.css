@@ -1,12 +1,10 @@
-img{
-    float: inline-start;
-}
+
 body{
     background-color: lavenderblush;
 }
-h1{
-    font-size: xx-large;
-    color: steelblue;
+.profile{
+    float: right;
+   
 }
 .hed{
     color: slateblue;
