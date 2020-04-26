@@ -1,7 +1,7 @@
 
 body{
-    background-color: rgb(95, 79, 84);
-    background-image: url("images/bg1.png");
+    background-image: url('bg2.png');
+    background-color: blanchedalmond;
 }
    img{
        float: left;
@@ -11,9 +11,10 @@ body{
 .profile{
     float: inline-start;
     background-color: rgb(15, 165, 235);
+    background-image: url('bg1.png');
     width: 600px;
     height: 110px;
-}
+    }
 .hed{
     color: slateblue;
     font-size: xx-large;
@@ -32,5 +33,5 @@ body{
     color: rgb(194, 204, 214) ;
 }
 .dis{
-    color: black;
+    color: rgb(196, 188, 188);
 }
