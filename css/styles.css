@@ -4,9 +4,10 @@ body{
 }
    img{
        float: left;
+       size: 2px;
    }
 .sidebar{
-    width: 350px;
+   
     background-color: lawngreen;
 }
 .hed{
